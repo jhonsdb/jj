@@ -1,0 +1,1 @@
+timetable = ["john" , "Dominik" , "Tamia" ,"Dominik" , "Suarez"] 

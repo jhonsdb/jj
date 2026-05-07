@@ -12,3 +12,4 @@ print(var1)
 print(var2)
 packtulpa = var1,var2
 print(packtulpa)
+

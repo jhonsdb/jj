@@ -1,6 +1,4 @@
 #Se creará un conjunto a partir de una cadena utilizando el método set():
-conjunto = {"hello","adios","hasta luego"}
-print(conjunto)
 char_set = set("hola")
 print(char_set)
 #Como la función enumerate devuelve dos valores por cada iteración, un índice y un valor, 
